@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomadelema&label=Profile%20views&color=0e75b6&style=flat" alt="jomadelema" /> </p>
 
-- 🌱 I’m currently learning **javascript, TDD,**
+- 🌱 I’m currently learning **javascript, TDD, road to Full Stack**
 
 - 👨‍💻 All of my projects are available at [jomadelema.github.io](jomadelema.github.io)
 
