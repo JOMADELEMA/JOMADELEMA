@@ -1,3 +1,5 @@
+![Logo](https://jomadelema.github.io/prime-number-TDD/assets/logo.png)
+
 <h1 align="center">Hi 👋, I'm JOMADELEMA</h1>
 <h3 align="center">A enthusiastic software developer from Guatemala</h3>
 
